@@ -1,2 +1,4 @@
 # Final-Project
-Development log: 
+Development Log Link: https://github.com/qi7171/Final-Project/blob/main/Development%20Log-Qi.pdf
+
+Video Link:
