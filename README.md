@@ -1,2 +1,2 @@
 # Final-Project
-[Uploading Development Log-Qi.pdf…]()
+Development log: 
